@@ -1,0 +1,14 @@
+Variables: These are letters that represent values that can be words, numbers, or true/false.
+
+Strings: These are a combonation of letters, spaces, and numbers put between quation marks - 'This is a string.'
+
+functions: These are small blocks of code that can be utilized over and over.  They are best used when a given 
+piece of code needs to be ran repatedly.
+
+if statements: These statemetns are essentially a fork in the road.  When the code comes accross an 'if 
+statement', it will test if the statement is true.  If true, it will run the code below.  If it is false, it 
+will run different code. 
+
+Boolean values: These values can be either true or false. They are used to compare two different items 
+against each other.  If the items are equal, the value will be true; if the items are unequal, the value will 
+be false.
